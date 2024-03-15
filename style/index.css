@@ -1,0 +1,26 @@
+.container-fluid {
+    background-color: #2896DF;
+    height: 80px;
+}
+
+.navbar-brand {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+
+.navbar-toggler {
+    background-color: #AC8CCC;
+    color: black;
+}
+
+.nav-item {
+    color: black;
+    font-weight: bold;
+}
+
+.card {
+    margin: 60px;
+}
